@@ -1,0 +1,25 @@
+#Application Config
+application:
+    listino: 2
+    sconto: 0
+
+# ==============================================================
+# = Actuator Info
+# ==============================================================
+info:
+  assistenza:
+    nome: "Claudio Forgiarini"
+    mail: "cforgia@gmail.com"
+    telefono: "3492968191"
+    orario: "9-20"
+    # ==============================================================
+    # = My Github
+    # ==============================================================
+    mygithub:
+      username: "ClaudioSviluppo"
+      email: "cforgia@gmail.com"
+      password: "Tatina standard numerata e chiocciolata"
+  nome:
+    nome-app: "Articoli Prezzi Web Service con configurazione esterna"
+  profilo: Standard con sconto
+
