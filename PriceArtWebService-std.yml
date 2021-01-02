@@ -1,0 +1,9 @@
+application:
+  listino: 2
+  sconto: 0
+info:
+  assistenza:
+    nome: '"Claudio Forgiarini"'
+  nome:
+    nome-app: '"PriceArt Web Service - Versione Autenticazione JWT" '
+  profilo: '"GitHub"'
