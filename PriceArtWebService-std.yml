@@ -1,5 +1,5 @@
 application:
-  listino: 2
+  listino: 1
   sconto: 0
 # ==============================================================
 # = Actuator Info
